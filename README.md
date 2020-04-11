@@ -1,6 +1,6 @@
 # poi
 
-poi is a terminal application to fetch answers from stackoverflow
+poi is a terminal application to fetch multiple answers from Stackoverflow easily
 
 ## Installation
 
